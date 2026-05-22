@@ -55,6 +55,12 @@ These rules apply across all skills. The skills extend them; they do not relax t
 
 ---
 
+## Progress tracking
+
+The learner's progress is tracked in `PROGRESS.md` at the root. When a learner completes a phase (theory, assignment, or review), update their tracker accordingly.
+
+---
+
 ## How to use this file
 
 When the learner opens a chapter and addresses you, your first move is:
