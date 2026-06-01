@@ -34,10 +34,10 @@ Claude will not make design decisions for you, will not skip phases, and will no
 |---|---|---|
 | 1 | Trade-Offs in Data Systems Architecture | Available |
 | 2 | Defining Nonfunctional Requirements | Available |
-| 3 | Data Models and Query Languages | Coming soon |
-| 4 | Storage and Retrieval | Coming less soon |
-| 5 | Encoding and Evolution | Eventually consistent |
-| 6 | Replication | Replicating effort to get here |
+| 3 | Data Models and Query Languages | Available |
+| 4 | Storage and Retrieval | Coming soon |
+| 5 | Encoding and Evolution | Coming soon |
+| 6 | Replication | Coming less soon |
 | 7 | Sharding | Partitioned from reality |
 | 8 | Transactions | No guarantees of isolation |
 | 9 | The Trouble with Distributed Systems | The trouble with finishing this |
