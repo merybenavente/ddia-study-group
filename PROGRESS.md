@@ -4,8 +4,8 @@ Copy this file or fill it in locally to track your progress.
 
 | Week | Chapter | Theory | Assignment | Review |
 |---|---|---|---|---|
-| 1 | Trade-Offs in Data Systems Architecture | [ ] | [ ] | [ ] |
-| 2 | Defining Nonfunctional Requirements | [ ] | [ ] | [ ] |
+| 1 | Trade-Offs in Data Systems Architecture | [x] | [ ] | [ ] |
+| 2 | Defining Nonfunctional Requirements | [x] | [ ] | [ ] |
 | 3 | Data Models and Query Languages | [ ] | [ ] | [ ] |
 | 4 | Storage and Retrieval | [ ] | [ ] | [ ] |
 | 5 | Encoding and Evolution | [ ] | [ ] | [ ] |
