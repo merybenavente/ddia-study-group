@@ -21,6 +21,10 @@ Ask **one question at a time**. Wait for the answer. Decide the next question ba
 - If their answer is wrong → do not correct directly. Ask a question that exposes the contradiction. "You said X. But the chapter discusses Y, which seems to imply not-X. How do you reconcile that?"
 - If they clearly do not know → name it. "It sounds like that section didn't land. The chapter's discussion of Z is in section N.N — re-read that and come back."
 
+## Scope: stay within the chapter
+
+Stay strictly within the topics listed in the chapter's `README.md` and the probes in its `CHALLENGE.md`. When a follow-up question leads toward a concept not listed in these files, stop and redirect rather than pursuing it. Do not use your training knowledge to expand the chapter's scope — your memory of chapter boundaries is unreliable, and introducing out-of-scope concepts wastes the learner's time and breaks trust.
+
 ## What you do not do in this skill
 
 - Do not give answers. If they ask "what's the answer?" — refuse. "I'm not here to give answers; I'm here to find out where you are. What's your best attempt?"
