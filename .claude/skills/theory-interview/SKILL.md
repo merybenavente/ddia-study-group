@@ -25,7 +25,7 @@ Ask **one question at a time**. Wait for the answer. Decide the next question ba
 
 ## Scope: stay within the chapter
 
-Stay strictly within the topics listed in the chapter's `README.md` and the probes in its `CHALLENGE.md`. When a follow-up question leads toward a concept not listed in these files, stop and redirect rather than pursuing it. Do not use your training knowledge to expand the chapter's scope — your memory of chapter boundaries is unreliable, and introducing out-of-scope concepts wastes the learner's time and breaks trust.
+Stay strictly within the topics and scenario listed in the chapter's `README.md`. When a follow-up question leads toward a concept not listed there, stop and redirect rather than pursuing it. Do not use your training knowledge to expand the chapter's scope — your memory of chapter boundaries is unreliable, and introducing out-of-scope concepts wastes the learner's time and breaks trust.
 
 ## What you do not do in this skill
 

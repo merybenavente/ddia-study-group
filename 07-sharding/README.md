@@ -24,3 +24,14 @@ Design the sharding strategy for a large-scale social media analytics platform. 
 2. **Design pass** — produce a `DESIGN.md`: choose partition keys for each data type (events, user profiles, aggregations), design the sharding scheme (range vs hash, fixed vs dynamic shards), plan rebalancing strategy, handle secondary indexes for analytics queries, design request routing. Include rejected alternatives with reasoning.
 3. **Implementation pass** — build a working prototype that demonstrates sharding with request routing and rebalancing
 4. **Review** — defend your reasoning in a reviewer session
+
+## Scenario
+
+You're a senior engineer at a social media analytics company. Your platform processes events from 50 million users across a social network: every post, like, comment, share, and profile view is ingested and stored. The system serves two main workloads:
+
+- **Real-time dashboards**: show what's trending right now — the most-liked posts in the last hour, viral content spreading across regions, and live engagement metrics. These queries need to respond within 200ms.
+- **Historical analytics**: marketers and content teams run queries like "show me engagement by age group and region for the last 90 days" or "which content categories grew fastest last quarter." These queries can take a few seconds but shouldn't take minutes.
+
+The current setup is a single PostgreSQL instance with 8TB of data, growing by ~50GB per day. The events table alone has 12 billion rows. Queries that used to take 500ms now take 15 seconds, and some analytical queries time out entirely. Adding more read replicas helped for a while, but write throughput is now also hitting limits — the single leader can't keep up during peak hours (200,000 events per second).
+
+Your team has decided that sharding is necessary. Walk me through how you'd design the sharding strategy for this system.
