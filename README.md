@@ -30,21 +30,18 @@ Claude will not make design decisions for you, will not skip phases, and will no
 
 ## The chapters
 
-| Chapter | Status |
-|---|---|
-| [Ch. 1 — Trade-Offs in Data Systems Architecture](01-foundations/README.md) | Available |
-| [Ch. 2 — Defining Nonfunctional Requirements](02-nonfunctional-requirements/README.md) | Available |
-| [Ch. 3 — Data Models and Query Languages](03-data-models/README.md) | Available |
-| [Ch. 4 — Storage and Retrieval](04-storage-and-retrieval/README.md) | Available |
-| [Ch. 5 — Encoding and Evolution](05-encoding-and-evolution/README.md) | Available |
-| [Ch. 6 — Replication](06-replication/README.md) | Available |
-| [Ch. 7 — Sharding](07-sharding/README.md) | Available |
-| [Ch. 8 — Transactions (Week 1: Fundamentals and Weak Isolation)](08-transactions/README.md) | Available |
-| [Ch. 8 — Transactions (Week 2: Serializability and Distributed Transactions)](08-transactions/README.md) | Available |
-| [Ch. 9 — The Trouble with Distributed Systems](09-distributed-systems-trouble/README.md) | Available |
-| [Ch. 10 — Consistency and Consensus](10-consistency-and-consensus/README.md) | Available |
-| [Ch. 11 — Batch Processing](11-batch-processing/README.md) | Available |
-| [Ch. 12 — Stream Processing](12-stream-processing/README.md) | Available |
-| [Ch. 13 — A Philosophy of Streaming Systems](13-philosophy-of-streaming-systems/README.md) | Available |
-| [Ch. 14 — Doing the Right Thing](14-doing-the-right-thing/README.md) | Available |
-| Review | If we survive |
+- [Ch. 1 — Trade-Offs in Data Systems Architecture](01-foundations/README.md)
+- [Ch. 2 — Defining Nonfunctional Requirements](02-nonfunctional-requirements/README.md)
+- [Ch. 3 — Data Models and Query Languages](03-data-models/README.md)
+- [Ch. 4 — Storage and Retrieval](04-storage-and-retrieval/README.md)
+- [Ch. 5 — Encoding and Evolution](05-encoding-and-evolution/README.md)
+- [Ch. 6 — Replication](06-replication/README.md)
+- [Ch. 7 — Sharding](07-sharding/README.md)
+- [Ch. 8 — Transactions, Part I: Fundamentals and Weak Isolation](08-transactions/README.md)
+- [Ch. 8 — Transactions, Part II: Serializability and Distributed Transactions](08-transactions/README.md)
+- [Ch. 9 — The Trouble with Distributed Systems](09-distributed-systems-trouble/README.md)
+- [Ch. 10 — Consistency and Consensus](10-consistency-and-consensus/README.md)
+- [Ch. 11 — Batch Processing](11-batch-processing/README.md)
+- [Ch. 12 — Stream Processing](12-stream-processing/README.md)
+- [Ch. 13 — A Philosophy of Streaming Systems](13-philosophy-of-streaming-systems/README.md)
+- [Ch. 14 — Doing the Right Thing](14-doing-the-right-thing/README.md)

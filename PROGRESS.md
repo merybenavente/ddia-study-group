@@ -11,8 +11,8 @@ Copy this file or fill it in locally to track your progress.
 | Ch. 5 — Encoding and Evolution | [ ] | [ ] | [ ] |
 | Ch. 6 — Replication | [ ] | [ ] | [ ] |
 | Ch. 7 — Sharding | [ ] | [ ] | [ ] |
-| Ch. 8 — Transactions (Week 1) | [ ] | [ ] | [ ] |
-| Ch. 8 — Transactions (Week 2) | [ ] | [ ] | [ ] |
+| Ch. 8 — Transactions (Part I) | [ ] | [ ] | [ ] |
+| Ch. 8 — Transactions (Part II) | [ ] | [ ] | [ ] |
 | Ch. 9 — The Trouble with Distributed Systems | [ ] | [ ] | [ ] |
 | Ch. 10 — Consistency and Consensus | [ ] | [ ] | [ ] |
 | Ch. 11 — Batch Processing | [ ] | [ ] | [ ] |
